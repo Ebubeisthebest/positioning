@@ -34,3 +34,9 @@ top: 350px;
 
 
 }
+#opac{
+  height: 120px;
+  width: 200px;
+  opacity: 0.5;
+background-color:  blue;
+}
