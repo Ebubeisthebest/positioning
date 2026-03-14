@@ -1,0 +1,36 @@
+#absolute{
+    top: 40px;
+    border: 1px solid green;
+    left: 120px;
+    position: absolute;
+    height: 80px;
+    width: 85px;
+}
+#fixed{
+    top: 150px;
+        border: 1px solid red;
+        left: 60px;
+        position: fixed;
+        height: 80px;
+        width: 85px;
+    
+}
+#relative{
+top: 250px;
+    border: 1px solid blue;
+    left: 60px;
+    position: relatve;
+    height: 80px;
+    width: 85px;
+
+}
+#sticky{
+top: 350px;
+    border: 1px solid black;
+    left: 60px;
+    position: sticky;
+    height: 80px;
+    width: 85px;
+
+
+}
